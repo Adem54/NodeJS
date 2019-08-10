@@ -1,0 +1,10 @@
+{
+  "name": "express-api",
+  "version": "0.0.0",
+  "description": "Node Express Api by using json files",
+  "repository": "https://github.com/aftame/NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
